@@ -1,0 +1,177 @@
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\DxLibW.dll
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\DxLibW_x64.dll
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Shooting.exe.config
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Shooting.exe
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Shooting.pdb
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\obj\Debug\Shooting.csproj.AssemblyReference.cache
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\obj\Debug\Shooting.csproj.SuggestedBindingRedirects.cache
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\obj\Debug\Shooting.csproj.CoreCompileInputs.cache
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\obj\Debug\Shooting.exe
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\obj\Debug\Shooting.pdb
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Image\enemy_bullet_16.png
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Image\explosion.png
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Image\player.png
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Image\player_bullet.png
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Image\zako0.png
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Image\zako1.png
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Image\zako2.png
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Image\zako3.png
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Image\zako4.png
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Image\zako5.png
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Image\zako6.png
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Image\zako7.png
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Image\zako8.png
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Image\zako9.png
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Image\boss1.png
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Image\boss2.png
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Image\boss3.png
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Map\map_id.png
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Map\stage1.csv
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Image\itemLifeUp.png
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Image\poison.png
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Image\blood.png
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Image\spike.png
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Image\ItemManaUp.png
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Image\background.png
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Image\guage300.png
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Image\guage180.png
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Image\guage90.png
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Image\guageBoss.png
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Map\stageTest.csv
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Image\black.png
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Map\stageBoss.csv
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Image\LoseResult.png
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Image\WinResult.png
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Image\title.png
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Sound\bgmBoss.wav
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Sound\bgmTitle.wav
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Sound\seExplosion.wav
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Sound\seShoot1.wav
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Sound\seShoot2.wav
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Sound\bgmWin.wav
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Sound\seSelect.wav
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Sound\seStart.wav
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Sound\bgmLose.wav
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Image\howtoplay0.png
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Image\howtoplay1.png
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Image\howtoplay2.png
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Image\story0.png
+C:\Users\g023g1246\Desktop\DxLibProjects\Shooting\bin\Debug\Image\story1.png
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\DxLibW.dll
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\DxLibW_x64.dll
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Image\background.png
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Image\black.png
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Image\blood.png
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Image\boss1.png
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Image\boss2.png
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Image\boss3.png
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Image\enemy_bullet_16.png
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Image\explosion.png
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Image\guage180.png
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Image\guage300.png
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Image\guage90.png
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Image\guageBoss.png
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Image\howtoplay0.png
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Image\howtoplay1.png
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Image\howtoplay2.png
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Image\itemLifeUp.png
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Image\ItemManaUp.png
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Image\LoseResult.png
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Image\player.png
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Image\player_bullet.png
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Image\poison.png
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Image\spike.png
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Image\story0.png
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Image\story1.png
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Image\title.png
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Image\WinResult.png
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Image\zako0.png
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Image\zako1.png
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Image\zako2.png
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Image\zako3.png
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Image\zako4.png
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Image\zako5.png
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Image\zako6.png
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Image\zako7.png
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Image\zako8.png
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Image\zako9.png
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Map\map_id.png
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Sound\bgmBoss.wav
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Sound\bgmLose.wav
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Sound\bgmTitle.wav
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Sound\bgmWin.wav
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Sound\seExplosion.wav
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Sound\seSelect.wav
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Sound\seShoot1.wav
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Sound\seShoot2.wav
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Sound\seStart.wav
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Map\stage1.csv
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Map\stageBoss.csv
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Map\stageTest.csv
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Shooting.exe.config
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Shooting.exe
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\bin\Debug\Shooting.pdb
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\obj\Debug\Shooting.csproj.AssemblyReference.cache
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\obj\Debug\Shooting.csproj.SuggestedBindingRedirects.cache
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\obj\Debug\Shooting.csproj.CoreCompileInputs.cache
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\obj\Debug\Shooting.exe
+C:\Users\g023g1246\Downloads\G023G1246_SUDPOR KITTIPIT_Shooting\Shooting\obj\Debug\Shooting.pdb
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\DxLibW.dll
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\DxLibW_x64.dll
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Image\background.png
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Image\black.png
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Image\blood.png
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Image\boss1.png
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Image\boss2.png
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Image\boss3.png
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Image\enemy_bullet_16.png
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Image\explosion.png
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Image\guage180.png
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Image\guage300.png
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Image\guage90.png
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Image\guageBoss.png
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Image\howtoplay0.png
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Image\howtoplay1.png
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Image\howtoplay2.png
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Image\itemLifeUp.png
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Image\ItemManaUp.png
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Image\LoseResult.png
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Image\player.png
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Image\player_bullet.png
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Image\poison.png
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Image\spike.png
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Image\story0.png
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Image\story1.png
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Image\title.png
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Image\WinResult.png
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Image\zako0.png
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Image\zako1.png
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Image\zako2.png
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Image\zako3.png
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Image\zako4.png
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Image\zako5.png
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Image\zako6.png
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Image\zako7.png
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Image\zako8.png
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Image\zako9.png
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Map\map_id.png
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Sound\bgmBoss.wav
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Sound\bgmLose.wav
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Sound\bgmTitle.wav
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Sound\bgmWin.wav
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Sound\seExplosion.wav
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Sound\seSelect.wav
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Sound\seShoot1.wav
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Sound\seShoot2.wav
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Sound\seStart.wav
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Map\stage1.csv
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Map\stageBoss.csv
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Map\stageTest.csv
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Shooting.exe.config
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Shooting.exe
+C:\Users\g023g1246\Documents\GitHub\Shooting\bin\Debug\Shooting.pdb
+C:\Users\g023g1246\Documents\GitHub\Shooting\obj\Debug\Shooting.csproj.AssemblyReference.cache
+C:\Users\g023g1246\Documents\GitHub\Shooting\obj\Debug\Shooting.csproj.SuggestedBindingRedirects.cache
+C:\Users\g023g1246\Documents\GitHub\Shooting\obj\Debug\Shooting.csproj.CoreCompileInputs.cache
+C:\Users\g023g1246\Documents\GitHub\Shooting\obj\Debug\Shooting.exe
+C:\Users\g023g1246\Documents\GitHub\Shooting\obj\Debug\Shooting.pdb
